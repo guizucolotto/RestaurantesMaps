@@ -1,0 +1,2074 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -46.4890489,
+          -23.4585366
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-20T20:21:00.335778Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6b539401976f90c9",
+        "location": {
+          "address": "Av. Monteiro Lobato, 4250 - Cidade Jardim Cumbica, Guarulhos - SP, 07180-000, Brasil",
+          "country_code": "BR",
+          "name": "Airport Park GRU - Estacionamento Aeroporto Guarulhos"
+        },
+        "review_text_published": "Excelente atendimento, muito prestativo e pontual. Facilitou muito a nossa viagem."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6772106,
+          -23.5597439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-27T20:41:21.627717Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3d42a8817b985d07",
+        "location": {
+          "address": "R. Artur de Azevedo, 502 - Cerqueira César, São Paulo - SP, 05404-001, Brasil",
+          "country_code": "BR",
+          "name": "Ciclo das Vinhas"
+        },
+        "review_text_published": "Sensacional a experiência de degustação. Muito aprendizado. Com certeza farei mais cursos."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6410612,
+          -23.5874949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-07-14T22:17:54.282896Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf73e14b7d05e2110",
+        "location": {
+          "address": "R. França Pinto, 489 - Vila Mariana, São Paulo - SP, 04016-032, Brasil",
+          "country_code": "BR",
+          "name": "Dr. Tchê La Parrilla de La Villa"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Serviço",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Carne excelente, atendimento maravilhoso. Vale cada centavo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6342436,
+          -23.6403521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-22T12:03:08.064640Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7b6a51869aa40bd5",
+        "location": {
+          "address": "R. Bicudo de Brito, 532 - Jabaquara, São Paulo - SP, 04316-060, Brasil",
+          "country_code": "BR",
+          "name": "Legião de Patinhas"
+        },
+        "review_text_published": "Melhor creche de São Paulo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6348493,
+          -23.5487985
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-22T12:02:52.913544Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc37557000b53abda",
+        "location": {
+          "address": "R. Quintino Bocaiúva, 22 - Sé, São Paulo - SP, 01004-010, Brasil",
+          "country_code": "BR",
+          "name": "Casa de Francisca"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Serviço",
+            "rating": 3
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.8510924,
+          -23.4975280
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-17T11:48:13.017008Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2b2888bb29ff8bbc",
+        "location": {
+          "address": "Calçada das Orquídeas, 209 - Alphaville Comercial, Barueri - SP, 06453-001, Brasil",
+          "country_code": "BR",
+          "name": "Restaurante Osaka"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Serviço",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6526427,
+          -23.5540830
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-17T11:48:01.027074Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1113710f04f14eba",
+        "location": {
+          "address": "R. Frei Caneca, 569 - Bela Vista, São Paulo - SP, 01307-001, Brasil",
+          "country_code": "BR",
+          "name": "Centro de Convenções Frei Caneca"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6454337,
+          -23.6166300
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-17T11:47:48.444370Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb09d27adacc269ad",
+        "location": {
+          "address": "Av. Nhandú, 1082 - Planalto Paulista, São Paulo - SP, 04059-003, Brasil",
+          "country_code": "BR",
+          "name": "Panificadora Nhandu"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Serviço",
+            "rating": 3
+          },
+          {
+            "question": "Ambiente",
+            "rating": 2
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.0233024,
+          -22.8634858
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-17T11:47:34.618217Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2d466134ee7734a9",
+        "location": {
+          "address": "Av. Bailarina Selma Parada, s/n - Jardim Nilópolis, Campinas - SP, 13091-901, Brasil",
+          "country_code": "BR",
+          "name": "Galleria Shopping"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.8482573,
+          -23.4940666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-17T11:47:25.884780Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf9bb233ba3b0a7fb",
+        "location": {
+          "address": "Al. Rio Negro, 1286 - Alphaville, Barueri - SP, 06454-000, Brasil",
+          "country_code": "BR",
+          "name": "La Ville"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Serviço",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6647628,
+          -23.6067469
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-17T11:47:18.862435Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x860fd5db22de0dce",
+        "location": {
+          "address": "Av. Ibirapuera, 2645 - Moema, São Paulo - SP, 14029-200, Brasil",
+          "country_code": "BR",
+          "name": "McDonald's"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Serviço",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 4
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6617290,
+          -23.6130040
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-17T11:47:05.125681Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1cbdf493a8d3a81c",
+        "location": {
+          "address": "Alameda dos Aicás, 1219 - Moema, São Paulo - SP, 04086-003, Brasil",
+          "country_code": "BR",
+          "name": "Viana Bar Grill"
+        },
+        "questions": [
+          {
+            "question": "Preço por pessoa",
+            "selected_option": "R$ 60–80"
+          },
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Serviço",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.0340822,
+          -22.8828811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-17T11:46:50.120905Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xcf8e6b278b6d93a4",
+        "location": {
+          "address": "R. Mogi Guaçu, 1505 - Jardim Flamboyant, Campinas - SP, 13091-103, Brasil",
+          "country_code": "BR",
+          "name": "Abelha Gulosa-Flamboyant"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Serviço",
+            "rating": 3
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.9308486,
+          -23.1881962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-03-17T11:46:40.991879Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x51076c46dbb1b863",
+        "location": {
+          "address": "Casa Branca - Rod. dos Bandeirantes, s/n - Km 58 - Gramadão, Jundiaí - SP, 13211-490, Brasil",
+          "country_code": "BR",
+          "name": "McDonald's"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Serviço",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -51.3166800,
+          -14.4095262
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T10:52:57.847367Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4fc55b8d4dacd4ec",
+        "location": {
+          "country_code": "BR",
+          "name": "Lazy food - delivery & eventos"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Serviço",
+            "rating": 3
+          },
+          {
+            "question": "Ambiente",
+            "rating": 2
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6448514,
+          -23.6123579
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T10:52:41.289413Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x57b3c76ecaa0f577",
+        "location": {
+          "address": "Av. José Maria Whitaker, 1366 - Planalto Paulista, São Paulo - SP, 04057-000, Brasil",
+          "country_code": "BR",
+          "name": "Academia Smart Fit - Planalto Paulista"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.0823837,
+          -22.8245223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T10:52:32.935140Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7099f22193fd4ef7",
+        "location": {
+          "address": "Av. Santa Isabel, 462 - Vila Santa Isabel, Campinas - SP, 13084-643, Brasil",
+          "country_code": "BR",
+          "name": "Cervejaria Garimpero"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 3
+          },
+          {
+            "question": "Serviço",
+            "rating": 4
+          },
+          {
+            "question": "Ambiente",
+            "rating": 5
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.0549640,
+          -22.8803540
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T10:52:21.869833Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe2007aecee393243",
+        "location": {
+          "address": "Av. Barão de Itapura, 3033 - Taquaral, Campinas - SP, 13073-300, Brasil",
+          "country_code": "BR",
+          "name": "Django Brew House Bar"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Serviço",
+            "rating": 3
+          },
+          {
+            "question": "Ambiente",
+            "rating": 3
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.8566657,
+          -23.4857744
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T10:51:57.918760Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7bf7584fd7d3ff1f",
+        "location": {
+          "address": "Av. Alphaville, 590 - Loja C - Empresarial 18 do Forte, Barueri - SP, 06472-010, Brasil",
+          "name": "5aSec Lavanderia & Costura - Posto BR Alphaville"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6658811,
+          -23.5633538
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T10:51:48.500524Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd59524b6dad1081e",
+        "location": {
+          "address": "R. Augusta, 2542 - Jardim Paulista, São Paulo - SP, 01413-100, Brasil",
+          "country_code": "BR",
+          "name": "Villa San Pietro"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6607370,
+          -23.5591082
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T10:51:21.521422Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf4ddea8a1b94701f",
+        "location": {
+          "address": "Av. Paulista, 2073 - Bela Vista, São Paulo - SP, 01311-940, Brasil",
+          "country_code": "BR",
+          "name": "Livraria Cultura - Conjunto Nacional"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6558583,
+          -23.5660502
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T10:51:12.226172Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xabba2afc962ce244",
+        "location": {
+          "address": "R. Pamplona, 957 - Jardim Paulista, São Paulo - SP, 01405-000, Brasil",
+          "country_code": "BR",
+          "name": "Osteria Generale - Jardim Paulista"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 4
+          },
+          {
+            "question": "Serviço",
+            "rating": 3
+          },
+          {
+            "question": "Ambiente",
+            "rating": 3
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6434770,
+          -23.6150182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T10:50:55.924902Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc63d6a2342270153",
+        "location": {
+          "address": "Alameda dos Guatás, 589 - Vila da Saúde, São Paulo - SP, 04053-041, Brasil",
+          "country_code": "BR",
+          "name": "Supermercado Vila das Frutas"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6659266,
+          -23.5633219
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T10:50:46.290723Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb8695f59d9e5ce4c",
+        "location": {
+          "address": "R. Augusta, 2542 - Cerqueira César, São Paulo - SP, 01412-100, Brasil",
+          "country_code": "BR",
+          "name": "Barú Marisquería"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Serviço",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 4
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6657675,
+          -23.6300769
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T10:50:36.650977Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x60cf9ca394592364",
+        "location": {
+          "address": "R. Tamoios, 152 - Jardim Aeroporto, São Paulo - SP, 04630-000, Brasil",
+          "country_code": "BR",
+          "name": "Padaria Nossa Casa"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6665528,
+          -23.5954757
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T10:50:26.347486Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4f2487067b5ba60a",
+        "location": {
+          "address": "R. Diogo Jácome, 391 - Vila Nova Conceição, São Paulo - SP, 04512-001, Brasil",
+          "country_code": "BR",
+          "name": "Hamburgueria Tradi"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 3
+          },
+          {
+            "question": "Serviço",
+            "rating": 3
+          },
+          {
+            "question": "Ambiente",
+            "rating": 2
+          }
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6745911,
+          -23.6113448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-26T10:50:09.172528Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2f3d412e6000f465",
+        "location": {
+          "address": "Av. dos Bandeirantes, 2040 - Vila Olímpia, São Paulo - SP, 04553-902, Brasil",
+          "country_code": "BR",
+          "name": "Petz Bandeirantes"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6651904,
+          -23.6072256
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-03-06T11:12:32.912558Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdd03365dae986ebb",
+        "location": {
+          "address": "Av. Ibirapuera, 2713 - Moema, São Paulo - SP, 04029-100, Brasil",
+          "country_code": "BR",
+          "name": "Chicohamburger"
+        },
+        "questions": [
+          {
+            "question": "Comida",
+            "rating": 5
+          },
+          {
+            "question": "Serviço",
+            "rating": 5
+          },
+          {
+            "question": "Ambiente",
+            "rating": 4
+          }
+        ],
+        "review_text_published": "Não acredito que mudaram de lugar. Acabou a tradição"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6784662,
+          -23.5276207
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-01-22T11:06:46.681022Z",
+        "five_star_rating_published": 0,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x864e5421d6195cb1",
+        "location": {
+          "address": "Avenida Francisco Matarazzo, 1705, R. Palestra Itália, 200 - Água Branca, São Paulo - SP, 05001-200, Brasil",
+          "country_code": "BR",
+          "name": "Allianz Parque"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -45.5553977,
+          -23.7930962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-01-22T11:06:34.701018Z",
+        "five_star_rating_published": 0,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfe9a642dc692878d",
+        "location": {
+          "address": "Av. Dr. Francisco Loup, 338 - Praia de Maresias, São Sebastião - SP, 11628-115, Brasil",
+          "country_code": "BR",
+          "name": "Hotel Canto do Rio - Maresias"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.8911353,
+          -22.0390442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-01-09T19:52:31.891201Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x37570cb16813d4d2",
+        "location": {
+          "address": "R. Francisco Marigo, nº 339 - Cruzeiro do Sul, São Carlos - SP, 13572-090, Brasil",
+          "country_code": "BR",
+          "name": "Sorvetes Bêjo - Unidade Cruzeiro"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.5651603,
+          -22.4205902
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-01-09T19:52:12.088667Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc1fbc16da95ff2ac",
+        "location": {
+          "address": "R. Doze, 153 - Consolação, Rio Claro - SP, 13500-110, Brasil",
+          "country_code": "BR",
+          "name": "Oishii Sushi Bar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6598416,
+          -23.6115729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-01-09T19:52:06.801590Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd3ad26303c7f2051",
+        "location": {
+          "address": "Av. Aratãs, 765 - Indianópolis, São Paulo - SP, 04081-004, Brasil",
+          "country_code": "BR",
+          "name": "Sushi Nami"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.1816713,
+          -5.8549236
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-01-27T12:57:58.030627Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8a9e43d5761237ad",
+        "location": {
+          "address": "Via Costeira Sen. Dinarte Medeiros Mariz, 6045 - Parque das Dunas, Natal - RN, 59090-002, Brasil",
+          "country_code": "BR",
+          "name": "SERHS Natal Grand Hotel & Resort"
+        },
+        "review_text_published": "Hotel com cara de um cruzeiro/resort.\nO hotel é excelente para quem quer curtir com a família em um clima de resort de frente para a praia.\nA opção all inclusive permite que não haja preocupação durante a viagem.\nPara quem gostaria de curtir um passei relaxante não é o melhor destino.\nChegamos às 15h e não havia restaurantes abertos no hotel, precisamos ir a cidade comer.\nUm ponto bem negativo é a piscina, que a pesar de um bar bem localizado, fica na sombra do hotel, o que bloqueia a sol após as 15h."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.1995504,
+          -5.8463452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-01-27T12:54:32.360459Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x58b66e055f0e66bd",
+        "location": {
+          "address": "Av. Odilon Gomes de Lima, 1772 - Cidade Jardim, Natal - RN, 59078-400, Brasil",
+          "country_code": "BR",
+          "name": "Restaurante NAU Frutos do Mar"
+        },
+        "questions": [
+          {
+            "question": "Serviço",
+            "selected_option": "Refeição no local"
+          },
+          {
+            "question": "Tipo de refeição",
+            "selected_option": "Jantar"
+          }
+        ],
+        "review_text_published": "O melhor polvo grelhado que já comi.\nOs pratos para 2 pessoas servem 3 com tranquilidade.\nPedi a entrada de lulas fritas que estavam incríveis. No ponto é muito suculentas."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -35.6207489,
+          -5.1196477
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-01-27T12:52:39.448934Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xffd4a54af503181d",
+        "location": {
+          "address": "R. das Algas, 51, São Miguel do Gostoso - RN, 59585-000, Brasil",
+          "country_code": "BR",
+          "name": "Mi Secreto Pousada & Spa"
+        },
+        "review_text_published": "Melhor hotel que eu já fiquei.\nO hotel é simplesmente incrível. Os quartos são maravilhoso,  com uma varanda ampla com rede e sofá.\nA janela do quarto permite que a vista não se altere.\nA piscina é incrível com uma sensação de natural.\nO restaurante mar e brasa é perfeito. Pratos bem servidos com sabor incrível.\nRecomendo para casais e famílias.\nO hotel ser pé na areia com serviço de praia é um bônus."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5899203,
+          -23.5652297
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-08-25T17:57:57.917782Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x62ef9007171d9261",
+        "location": {
+          "address": "R. Bixira, 58 - Mooca, São Paulo - SP, 03119-020, Brasil",
+          "country_code": "BR",
+          "name": "Rir Odonto Mooca"
+        },
+        "review_text_published": "Excelente atendimento, e profissionais incríveis"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -45.9610981,
+          -22.9136442
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-01-27T21:44:14.368764Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7844fbf135481d9e",
+        "location": {
+          "address": "R. Ezequiel Alves Graciano, 118 - Centro do Distrito de, São José dos Campos - SP, 12249-000, Brasil",
+          "country_code": "BR",
+          "name": "Pousada Muriqui"
+        },
+        "questions": [
+          {
+            "question": "Tipo de viagem",
+            "selected_option": "Férias"
+          },
+          {
+            "question": "Viagem em grupo",
+            "selected_option": "Casal"
+          },
+          {
+            "question": "Quartos",
+            "rating": 5
+          },
+          {
+            "question": "Serviço",
+            "rating": 5
+          },
+          {
+            "question": "Local",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "O atendimento da pousada é excelente. A Juliana muito atenciosa, e em sua ausência o funcionário Fabiano é maravilhoso. Muito atencioso e prestativo também. Parece ser o braço direito da pousada, auxiliando em diversas funções. Tudo funciona muito bem. Localização maravilhosa também."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6401227,
+          -23.6238159
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-11-10T02:56:14.445485Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdfc25585662e04b8",
+        "location": {
+          "address": "Av. Jabaquara, 2213 - Mirandópolis, São Paulo - SP, 04046-971, Brasil",
+          "country_code": "BR",
+          "name": "Cachorrão Bar e Lanches"
+        },
+        "review_text_published": "Nunca peça delivery. O maior descaso do mundo com quem solicitou."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.5710588,
+          -22.4139305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-10-20T05:50:21.323428Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd1217c1f2c3cc378",
+        "location": {
+          "address": "Av. Três, 1410 - Jardim Claret, Rio Claro - SP, 13500-392, Brasil",
+          "country_code": "BR",
+          "name": "McDonald's"
+        },
+        "review_text_published": "O pior MC do mundo. Demoramos 45 min no drive só pra pegar 1 batata grande. Isso é tão absurdo e ridículo que eu nem sei como isso pode acontecer."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6669416,
+          -23.6252761
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-08-21T14:37:49.049410Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3f6fe86a72e3c974",
+        "location": {
+          "address": "R. Estevão Baião, 869 - Campo Belo, São Paulo - SP, 04624-002, Brasil",
+          "country_code": "BR",
+          "name": "Laus Tattoo Society"
+        },
+        "review_text_published": "o estúdio é maravilhoso e os tatuadores são sensacionais. melhor experiência da vida. recomendo."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6657807,
+          -23.6261647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-30T08:50:49.314163Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6735048a9253d1ce",
+        "location": {
+          "address": "R. Sebastião Paes, 456 - Campo Belo, São Paulo - SP, 04625-061, Brasil",
+          "country_code": "BR",
+          "name": "Escola de Música U4M"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6865941,
+          -23.5954524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-11-26T20:38:53.877Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2af73564d2bc7f20",
+        "location": {
+          "address": "R. Olimpíadas, 360 - Vila Olímpia, São Paulo - SP, 04551-000, Brasil",
+          "country_code": "BR",
+          "name": "Shopping Vila Olímpia"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6296564,
+          -23.6460103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-11-26T20:38:41.211Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x31916ce58f719167",
+        "location": {
+          "address": "Rodovia dos Imigrantes, 1,5 km - Vila Água Funda, São Paulo - SP, 04329-900, Brasil",
+          "country_code": "BR",
+          "name": "São Paulo Expo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7361653,
+          -23.5478906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-03-20T20:07:13.970Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7d51f825c3270072",
+        "location": {
+          "address": "Av. Jaguaré, 1664 - Jaguaré, São Paulo - SP, 05346-030, Brasil",
+          "country_code": "BR",
+          "name": "Transamerica Fit Villa Lobos"
+        },
+        "review_text_published": "Servicio es muy bueno y la ubicación también. Me gustó el desayuno."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6434191,
+          -23.6158117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-23T11:55:02.808Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x77889df0edd9a00a",
+        "location": {
+          "address": "Av. José Maria Whitaker, 1785 - Planalto Paulista, São Paulo - SP, 04057-000, Brasil",
+          "country_code": "BR",
+          "name": "Charles Pizzaria"
+        },
+        "review_text_published": "Bom custo benefício"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6845985,
+          -23.5854158
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-23T11:54:53.298Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x77ad09beab4b56e1",
+        "location": {
+          "address": "Rua Tabapuã, 1462 - Itaim Bibi, São Paulo - SP, 04533-005, Brasil",
+          "country_code": "BR",
+          "name": "She Live"
+        },
+        "review_text_published": "Sensacional"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6876150,
+          -23.5530081
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-23T11:51:08.974Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6bc61aa8bc561f73",
+        "location": {
+          "address": "R. Original, 87 - Sumarezinho, São Paulo - SP, 05435-050, Brasil",
+          "country_code": "BR",
+          "name": "Bar do Sacha"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6271492,
+          -23.4917220
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-23T11:49:00.304Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x173ee414c572ff8b",
+        "location": {
+          "address": "R. Pedro Doll, 115 - Santana, São Paulo - SP, 02404-000, Brasil",
+          "country_code": "BR",
+          "name": "Padaria La Brunet"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6417202,
+          -23.6393149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-15T16:57:13.766Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd939b1edca679287",
+        "location": {
+          "address": "Av. Eng. George Corbisier, 273 - Jabaquara, São Paulo - SP, 04345-000, Brasil",
+          "country_code": "BR",
+          "name": "Carrefour Hipermercado"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6636502,
+          -23.5563971
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-15T16:57:08.490Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x90290c34169f69b3",
+        "location": {
+          "address": "R. da Consolação, 2581 - Cerqueira César, São Paulo - SP, 01416-001, Brasil",
+          "country_code": "BR",
+          "name": "Pão de Açúcar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6936874,
+          -23.6195813
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-15T16:56:58.761Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe1cfb64692f3841b",
+        "location": {
+          "address": "R. Baltazar Fernandes, 60 - Cidade Monções, São Paulo - SP, 04583-020, Brasil",
+          "country_code": "BR",
+          "name": "Casa Fernandes Pneus - Brooklin"
+        },
+        "review_text_published": "Melhor preço de pneus da região"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6347063,
+          -23.6269344
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-15T16:56:48.017Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5b2459ae65db21a0",
+        "location": {
+          "address": "Av. Fagundes Filho, 702 - Vila Monte Alegre, São Paulo - SP, 04304-001, Brasil",
+          "name": "Calabrinha pneus"
+        },
+        "review_text_published": "Preço bom"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6374428,
+          -23.6325485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-15T16:56:40.300Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc968141db5e6944f",
+        "location": {
+          "address": "Av. do Café, 602 - Conceição, São Paulo - SP, 04311-201, Brasil",
+          "country_code": "BR",
+          "name": "Unosso Bar"
+        },
+        "review_text_published": "HH"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6601824,
+          -23.6077701
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-15T16:56:33.181Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x26b24866fc77a8b4",
+        "location": {
+          "address": "Alameda dos Nhambiquaras, 1020 - Moema, São Paulo - SP, 04090-001, Brasil",
+          "country_code": "BR",
+          "name": "Samir Amis"
+        },
+        "review_text_published": "Lugar sensacional para comprar delicías árabes"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6353161,
+          -23.6056293
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-07T11:12:05.941Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x81a353529112da16",
+        "location": {
+          "address": "R. Potenji, 116 - Vila Mariana, São Paulo - SP, 04139-020, Brasil",
+          "name": "Expande Vila Mariana - Trisul S.A."
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6777110,
+          -23.5606035
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-07T11:11:45.118Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x91ea239018a907",
+        "location": {
+          "address": "R. João Moura, 541 - Pinheiros, São Paulo - SP, 05412-001, Brasil",
+          "country_code": "BR",
+          "name": "La Borratxeria Parrilla"
+        },
+        "review_text_published": "Hamburger Justo, run excelente!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6526753,
+          -23.5540480
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-07T11:11:27.079Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd47e23ad9ef88e",
+        "location": {
+          "address": "R. Frei Caneca, 569 - Consolação, São Paulo - SP, 01307-001, Brasil",
+          "country_code": "BR",
+          "name": "Shopping Frei Caneca"
+        },
+        "review_text_published": "ótimo espaço para eventos"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6193643,
+          -23.4883866
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-30T11:24:49.621Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x324ee3cead76cd55",
+        "location": {
+          "address": "Av. Leôncio de Magalhães, 1493 - Jardim São Paulo, São Paulo - SP, 02042-011, Brasil",
+          "country_code": "BR",
+          "name": "Saitama Sushi"
+        },
+        "review_text_published": "Sensacional"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6601218,
+          -23.5561273
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-30T11:24:36.746Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd82fca9808fe2dc4",
+        "location": {
+          "address": "Rua Haddock Lobo, 354 - Cerqueira César, São Paulo - SP, 01414-000, Brasil",
+          "country_code": "BR",
+          "name": "Padaria Bella Paulista"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6188152,
+          -23.6782109
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-30T11:24:31.991Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4777de9504e17fcb",
+        "location": {
+          "address": "Rod. dos Imigrantes, s/n - Km 15 - Vila Sao Vicente, Diadema - SP, 09935-000, Brasil",
+          "country_code": "BR",
+          "name": "Frango Assado"
+        },
+        "review_text_published": "Frango assado parou no tempo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-30T11:24:09.523Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe4139f2881955559",
+        "Comment": "Não há nenhuma informação de localização disponível para este comentário"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-30T11:23:06.905Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc3efc61e59f49c59",
+        "review_text_published": "Uma experiência pra quem gosta de café",
+        "Comment": "Não há nenhuma informação de localização disponível para este comentário"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6027134,
+          -23.6231689
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-30T11:22:53.741Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1667f6979e1a164e",
+        "location": {
+          "address": "R. Dom Vilares, 1712 - Vila das Merces, São Paulo - SP, 04160-001, Brasil",
+          "country_code": "BR",
+          "name": "Just Fit Academia - Dom Vilares"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-30T11:22:38.860Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbdfb009ff374a317",
+        "Comment": "Não há nenhuma informação de localização disponível para este comentário"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6660528,
+          -23.6109161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-30T11:22:31.497Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xeea06a7cc702728a",
+        "location": {
+          "address": "Avenida Ibirapuera, 3103, Alameda dos Jurupis, 1547 - Indianópolis, São Paulo - SP, 04088-005, Brasil",
+          "country_code": "BR",
+          "name": "Shopping Ibirapuera"
+        },
+        "review_text_published": "Só falta um cinema"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6588516,
+          -23.6148267
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-30T11:22:19.275Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1949a185fd160242",
+        "location": {
+          "address": "Av. Moreira Guimarães, 991 - Indianópolis, São Paulo - SP, 04074-031, Brasil",
+          "country_code": "BR",
+          "name": "Temaki Fry Unidade Planalto Paulista (Aeroporto)"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-30T11:22:14.757Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb0eb80f1f7ea17f7",
+        "Comment": "Não há nenhuma informação de localização disponível para este comentário"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6369018,
+          -23.5990138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-30T11:21:59.502Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4082ce660c9f6a4",
+        "location": {
+          "address": "R. Domingos de Morais, 2564 - Vila Mariana, São Paulo - SP, 04036-100, Brasil",
+          "country_code": "BR",
+          "name": "Shopping Metrô Santa Cruz"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6572650,
+          -23.5545439
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-13T15:10:57.808Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x72261c1537ec9545",
+        "location": {
+          "address": "R. Fernando de Albuquerque, 57 - Consolação, São Paulo - SP, 01309-030, Brasil",
+          "country_code": "BR",
+          "name": "Dona Teresa"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6988352,
+          -23.6233618
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-13T15:10:49.548Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa6b37701be082ac8",
+        "location": {
+          "address": "Av. Roque Petroni Júnior, 1089 - Jardim das Acacias, São Paulo - SP, 04707-900, Brasil",
+          "country_code": "BR",
+          "name": "Morumbi Shopping"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6895495,
+          -23.5947890
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-13T15:10:43.746Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6d6dca4b39a1858a",
+        "location": {
+          "address": "R. Gomes de Carvalho, 1740 - Loja 6 - Vila Olímpia, São Paulo - SP, 04547-006, Brasil",
+          "country_code": "BR",
+          "name": "Starbucks"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6752278,
+          -23.5843395
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-13T15:10:30.026Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb0f5def73435bd6",
+        "location": {
+          "address": "Brascan Open Mall, R. Joaquim Floriano, 466 - Itaim Bibi, São Paulo - SP, 04534-002, Brasil",
+          "country_code": "BR",
+          "name": "Braugarten - Itaim Bibi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6670610,
+          -23.5973374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-13T15:10:25.410Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5e9447b3108487da",
+        "location": {
+          "address": "Av. Hélio Pellegrino, 100 - Vila Nova Conceição, São Paulo - SP, 04511-070, Brasil",
+          "country_code": "BR",
+          "name": "Frutaria São Paulo - Helio Pellegrino"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6734576,
+          -23.6047100
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-13T15:10:17.603Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9bf79698de81e8c1",
+        "location": {
+          "address": "Rua Tuim, 1038 - Moema, São Paulo - SP, 04514-103, Brasil",
+          "country_code": "BR",
+          "name": "Spellbox"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6577302,
+          -23.5874064
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-13T15:10:12.216Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xcb936109af9ce541",
+        "location": {
+          "address": "Av. Pedro Álvares Cabral - Vila Mariana, São Paulo - SP, 04094-050, Brasil",
+          "country_code": "BR",
+          "name": "Parque Ibirapuera"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6601573,
+          -23.5531240
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-13T15:10:01.443Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7af8f1e819e4eb10",
+        "location": {
+          "address": "R. da Consolação, 2078 - 2r - Cerqueira César, São Paulo - SP, 01301-100, Brasil",
+          "country_code": "BR",
+          "name": "Sujinho Churrascaria"
+        },
+        "review_text_published": "Comida muito boa, mas cara"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6998137,
+          -23.6215583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-13T15:09:36.438Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2f6cdea42e6959be",
+        "location": {
+          "address": "Av. Dr. Chucri Zaidan, 902 - Vila Cordeiro, São Paulo - SP, 04583-110, Brasil",
+          "country_code": "BR",
+          "name": "Shopping Market Place"
+        },
+        "review_text_published": "Cinema bom, lojas ok"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6698530,
+          -23.5660268
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-13T15:09:25.106Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbe346c873dea06d9",
+        "location": {
+          "address": "R. Estados Unidos, 1645 - Jardim America, São Paulo - SP, 01427-002, Brasil",
+          "country_code": "BR",
+          "name": "Padaria Galeria dos Pães"
+        },
+        "review_text_published": "Excelente padaria"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6426474,
+          -23.6402210
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-13T15:09:17.019Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7647ad0bd8ec888d",
+        "location": {
+          "address": "Av. Gen. Valdomiro de Lima, 125 - Jabaquara, São Paulo - SP, 04344-070, Brasil",
+          "country_code": "BR",
+          "name": "Frigorífico Torres"
+        },
+        "review_text_published": "As melhores carnes do Jabaquara e região"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7210250,
+          -23.5799983
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-13T15:09:02.609Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1bc4df2a6978db7f",
+        "location": {
+          "address": "Av. Eliseu de Almeida, 1112 - Butantã, São Paulo - SP, 05531-060, Brasil",
+          "country_code": "BR",
+          "name": "Morada dos Pães"
+        },
+        "review_text_published": "Padrão"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6630330,
+          -23.5572360
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-13T15:08:52.845Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x743ef1d976115a61",
+        "location": {
+          "address": "Alameda Santos, 2444 - Jardim Paulista, São Paulo - SP, 01418-200, Brasil",
+          "country_code": "BR",
+          "name": "Bar Bela Santos"
+        },
+        "review_text_published": "Ótima comida"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6404111,
+          -23.6400799
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-13T15:08:39.449Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xab6b222a9f8a64bf",
+        "location": {
+          "address": "Av. Leonardo da Vinci, 1234 - Vila Guarani, São Paulo - SP, 04313-001, Brasil",
+          "country_code": "BR",
+          "name": "Academia Smart Fit - Leonardo da Vinci"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6187159,
+          -23.6096853
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-06T14:20:04.848Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf78a8a4763bdea3f",
+        "location": {
+          "address": "R. Assungui, 806 - Jardim da Saúde, São Paulo - SP, 04131-001, Brasil",
+          "country_code": "BR",
+          "name": "Peccati Gelato e Café"
+        },
+        "review_text_published": "Melhor sorvete de são Paulo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6515067,
+          -23.5675074
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-06T14:19:50.848Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4c8a97385ce76bd6",
+        "location": {
+          "address": "Alameda Santos, 815 - Jardins, São Paulo - SP, 01419-001, Brasil",
+          "name": "AlphaGraphics Jardins - Gráfica Rápida"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5952992,
+          -23.6824124
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-06T14:19:44.530Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x41a3b6bbeafd3a6d",
+        "location": {
+          "country_code": "BR",
+          "name": "Academia de Jogos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6380710,
+          -23.6088993
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-06T14:19:38.438Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9cac7e22a2061cab",
+        "location": {
+          "address": "Av. Jabaquara, 550 - Mirandópolis, São Paulo - SP, 04046-000, Brasil",
+          "country_code": "BR",
+          "name": "Osnir Hamburger"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-06T14:19:33.062Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7eb3c02227561cde",
+        "review_text_published": "Muitos produtos. Quase 24h",
+        "Comment": "Não há nenhuma informação de localização disponível para este comentário"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6588089,
+          -23.5577710
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-12-06T14:18:46.307Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x20bc062ae9772d43",
+        "location": {
+          "address": "Av. Paulista, 2064 - Bela Vista, São Paulo - SP, 01310-928, Brasil",
+          "country_code": "BR",
+          "name": "Starbucks"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -45.2032138,
+          -22.8187465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-11-09T17:31:54.350Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x675daaae10b1a08d",
+        "location": {
+          "address": "R. Abílio Coré, 251 - Chácaras Selles, Guaratinguetá - SP, 12505-465, Brasil",
+          "country_code": "BR",
+          "name": "Lótus Hotel - Guaratinguetá"
+        },
+        "review_text_published": "Es un hotel muy bueno. Bien ubicado e con un servicio excelente"
+      },
+      "type": "Feature"
+    }
+  ]
+}

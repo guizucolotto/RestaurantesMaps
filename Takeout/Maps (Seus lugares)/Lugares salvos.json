@@ -1,0 +1,1957 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6856909,
+          -23.5540238
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-23T15:35:24Z",
+        "google_maps_url": "http://maps.google.com/?cid=5777433337852775289",
+        "location": {
+          "address": "R. Medeiros de Albuquerque, 436 - Vila Madalena, São Paulo - SP, 05436-060, Brasil",
+          "country_code": "BR",
+          "name": "Lobozó Restaurante"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6880700,
+          -23.5532075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-23T15:35:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=5156255497368835920",
+        "location": {
+          "address": "R. Original, 141 - Sumarezinho, São Paulo - SP, 05435-050, Brasil",
+          "country_code": "BR",
+          "name": "Plou Vinhos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -68.8369894,
+          -32.8869283
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-11-18T00:02:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=18156322481909250247",
+        "location": {
+          "address": "san juan 1436, 5500 ciudad, Argentina",
+          "country_code": "AR",
+          "name": "Cantina \"La Rambla\""
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.0467464,
+          -22.8584592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2024-04-24T08:30:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=10642919171184732150",
+        "location": {
+          "address": "R. dos Lírios, 35 - Chácara Primavera, Campinas - SP, 13087-420, Brasil",
+          "country_code": "BR",
+          "name": "Academia Smart Fit - Chácara Primavera"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.8442612,
+          -23.4993595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-12-06T08:52:22Z",
+        "google_maps_url": "http://maps.google.com/?cid=14973054561648607234",
+        "location": {
+          "address": "2º Pavimento do Estacionamento Sodimac - Alameda Araguaia, 1801 - Alphaville Industrial, Barueri - SP, 06455-000, Brasil",
+          "country_code": "BR",
+          "name": "Academia Smart Fit - Alphaville II"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-03-09T08:56:50Z",
+        "google_maps_url": "http://maps.google.com/?q=40.759274,-73.974073",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-03-09T08:56:32Z",
+        "google_maps_url": "http://maps.google.com/?q=40.935185,-74.029958",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-07-17T06:17:08Z",
+        "google_maps_url": "http://maps.google.com/?q=-23.623770,-46.702098",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-27T07:34:48Z",
+        "google_maps_url": "http://maps.google.com/?q=40.711526,-74.012373",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-03-15T03:33:23Z",
+        "google_maps_url": "http://maps.google.com/?q=41.097053,-73.955844",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -45.9406085,
+          -22.9096169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-01-23T14:11:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=7384965277625481914",
+        "location": {
+          "address": "Estrada Vereador Pedro David, 18175 - St. Socioeconômico 21, São José dos Campos - SP, 12249-000, Brasil",
+          "country_code": "BR",
+          "name": "Rancho Três Paineiras"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -45.9582853,
+          -22.9115533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-01-22T19:37:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=5372032775911265507",
+        "location": {
+          "address": "Largo São Sebastião, 18 - St. Socioeconômico 21, São José dos Campos - SP, 12249-000, Brasil",
+          "country_code": "BR",
+          "name": "Bar e Adega dos Alquimistas"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -45.9571407,
+          -22.9108728
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-01-22T19:37:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=8558159663567662952",
+        "location": {
+          "address": "Rua 15 de Novembro, 297 - St. Socioeconômico 21, São José dos Campos - SP, 12249-000, Brasil",
+          "country_code": "BR",
+          "name": "A Soberana Cozinha Caipira"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -45.9558209,
+          -22.9107291
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-01-22T19:37:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=11647622199579480806",
+        "location": {
+          "address": "Rua 15 de Novembro, 427 - Distrito de, São José dos Campos - SP, 12249-000, Brasil",
+          "country_code": "BR",
+          "name": "SP-50-BIER"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-05-04T15:52:43Z",
+        "google_maps_url": "http://maps.google.com/?q=40.708300,-73.922742",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6646693,
+          -23.6203359
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-11-01T09:13:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=12916431210184090837",
+        "location": {
+          "address": "R. Otávio Tarquínio de Sousa, 304 - Campo Belo, São Paulo - SP, 04613-000, Brasil",
+          "name": "Centro Automotivo Porto - Campo Belo"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9291502,
+          40.7028639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-26T13:13:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=8048012461562497450",
+        "location": {
+          "address": "41 Wilson Ave, Brooklyn, NY 11237, Estados Unidos",
+          "country_code": "US",
+          "name": "Yours Sincerely"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9234940,
+          40.7066850
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-26T13:13:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=13048859055405622091",
+        "location": {
+          "address": "6 Wyckoff Ave, Brooklyn, NY 11237, Estados Unidos",
+          "country_code": "US",
+          "name": "The Cobra Club"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9326757,
+          40.7052743
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-26T13:13:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=12469325700912370295",
+        "location": {
+          "address": "12 Grattan St, Brooklyn, NY 11206, Estados Unidos",
+          "country_code": "US",
+          "name": "Pine Box Rock Shop"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9332974,
+          40.7040462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-26T13:10:56Z",
+        "google_maps_url": "http://maps.google.com/?cid=5339928767584161459",
+        "location": {
+          "address": "23 Bogart St, Brooklyn, NY 11206, Estados Unidos",
+          "country_code": "US",
+          "name": "Beacon's Closet"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9296724,
+          40.7049811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-26T13:10:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=14345848878539001248",
+        "location": {
+          "address": "118 Knickerbocker Ave, Brooklyn, NY 11237, Estados Unidos",
+          "country_code": "US",
+          "name": "Urban Jungle"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9377320,
+          40.7085134
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-26T13:10:42Z",
+        "google_maps_url": "http://maps.google.com/?cid=18167798229123183240",
+        "location": {
+          "address": "272 Meserole St, Brooklyn, NY 11206, Estados Unidos",
+          "country_code": "US",
+          "name": "The Well"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9279056,
+          40.7049167
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-26T13:10:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=10991534565032265970",
+        "location": {
+          "address": "1084 Flushing Ave, Brooklyn, NY 11237, Estados Unidos",
+          "country_code": "US",
+          "name": "Bunna Cafe"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-19T13:26:57Z",
+        "google_maps_url": "http://maps.google.com/?q=40.720582,-73.984521",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-07-18T06:39:33Z",
+        "google_maps_url": "http://maps.google.com/?q=-23.587606,-46.572712",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-06-14T06:37:07Z",
+        "google_maps_url": "http://maps.google.com/?q=-23.570991,-46.649886",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-04-26T01:07:44Z",
+        "google_maps_url": "http://maps.google.com/?q=Av.+Jornalista+Roberto+Marinho,+2076+-+Cidade+Mon%C3%A7%C3%B5es,+S%C3%A3o+Paulo+-+SP&ftid=0x94ce50bd572fdfa7:0x4b811534c1a43c7b",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5835603,
+          -23.6790842
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-05-19T11:31:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=13135379138061351",
+        "location": {
+          "address": "Av. Fagundes de Oliveira, 1515 - Piraporinha, Diadema - SP, 09950-904, Brasil",
+          "name": "Prensas Schuler"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6070894,
+          -23.5847607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-04-12T19:28:54Z",
+        "google_maps_url": "http://maps.google.com/?cid=17317200949688040611",
+        "location": {
+          "address": "R. Xavier Curado, 162 - Ipiranga, São Paulo - SP, 04210-100, Brasil",
+          "country_code": "BR",
+          "name": "Barbearia Mr. Navarro"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5916752,
+          -23.5821385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-03-18T01:13:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=435373537505255139",
+        "location": {
+          "address": "R. Cap. Pacheco e Chaves, 680 - Vila Prudente, São Paulo - SP, 03126-001, Brasil",
+          "country_code": "BR",
+          "name": "Zapt Motel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-02-12T15:21:45Z",
+        "google_maps_url": "http://maps.google.com/?q=R.+Teodoro+Sampaio,+2056+-+Pinheiros,+S%C3%A3o+Paulo+-+SP,+05406-150&ftid=0x94ce579f0e87f361:0x34957933ecfa4d41",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-01-13T22:11:25Z",
+        "google_maps_url": "http://maps.google.com/?q=-23.79747,-46.012629999999994",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.2639350,
+          -23.9981908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-09-24T19:42:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=7748593104849930219",
+        "location": {
+          "address": "Av. Leomil, 1160 - Barra Funda, Guarujá - SP, 11410-161, Brasil",
+          "country_code": "BR",
+          "name": "O Rei do Trigo - Padaria e Restaurante"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6341742,
+          -23.6210470
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-08-11T19:49:30Z",
+        "google_maps_url": "http://maps.google.com/?cid=5331483112638772246",
+        "location": {
+          "address": "Av. Miguel Estefano, 579 - Vila da Saúde, São Paulo - SP, 04301-010, Brasil",
+          "country_code": "BR",
+          "name": "Associação Desportiva de Judô Carlos Fossati"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6538071,
+          -23.5405029
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-08-08T14:53:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=2860238089125255",
+        "location": {
+          "address": "R. Martim Francisco, 438 - Santa Cecilia, São Paulo - SP, 01226-000, Brasil",
+          "name": "T. Tanaka Assistência Técnica"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6526427,
+          -23.5540830
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-08-06T02:26:50Z",
+        "google_maps_url": "http://maps.google.com/?cid=1230451432523648698",
+        "location": {
+          "address": "R. Frei Caneca, 569 - Bela Vista, São Paulo - SP, 01307-001, Brasil",
+          "country_code": "BR",
+          "name": "Centro de Convenções Frei Caneca"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6670473,
+          -23.5297539
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-08-01T16:24:17Z",
+        "google_maps_url": "http://maps.google.com/?cid=8685516863426821017",
+        "location": {
+          "address": "Av. Francisco Matarazzo, 404 - Conjunto 901 - Barra Funda, São Paulo - SP, 05001-000, Brasil",
+          "country_code": "BR",
+          "name": "Dican Brinquedos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6917097,
+          -23.6150657
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-07-12T12:51:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=6065234101071676483",
+        "location": {
+          "address": "R. Filinto Gomes Silva, 42 - Vila Cordeiro, São Paulo - SP, 04580-030, Brasil",
+          "name": "Associação Maria Helen Drexel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6674884,
+          -23.5084380
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-07-02T00:03:23Z",
+        "google_maps_url": "http://maps.google.com/?cid=7190494722127246600",
+        "location": {
+          "address": "Av. Pfa. Ida Kolb, 513 - Jardim das Laranjeiras, São Paulo - SP, 02518-000, Brasil",
+          "country_code": "BR",
+          "name": "PRO MAGNO Centro de Eventos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6872183,
+          -23.6118727
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-07-01T12:53:57Z",
+        "google_maps_url": "http://maps.google.com/?cid=14096576107872737592",
+        "location": {
+          "address": "R. Guararapes, 494 - Brooklin, São Paulo - SP, 04561-000, Brasil",
+          "country_code": "BR",
+          "name": "Repeteco"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-06-26T15:11:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=1804581023884408784",
+        "location": {
+          "country_code": "BR"
+        },
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.5582737,
+          -23.5489045
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-06-23T12:15:41Z",
+        "google_maps_url": "http://maps.google.com/?cid=4914831720093025501",
+        "location": {
+          "address": "R. Francisco Marengo, 1312 - Jardim Analia Franco, São Paulo - SP, 03313-001, Brasil",
+          "country_code": "BR",
+          "name": "Hospital e Maternidade São Luiz Anália Franco: Urgência, Emergência São Paulo SP"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6536063,
+          -23.5981170
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-06-12T17:11:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=4480926713835681453",
+        "location": {
+          "address": "Rua Pedro de Toledo, 1651 - ibirapuera, São Paulo - SP, 04039-034, Brasil",
+          "country_code": "BR",
+          "name": "Centro Esportivo Mané Garrincha"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7361653,
+          -23.5478906
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-06-11T22:41:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=9030271568926146674",
+        "location": {
+          "address": "Av. Jaguaré, 1664 - Jaguaré, São Paulo - SP, 05346-030, Brasil",
+          "country_code": "BR",
+          "name": "Transamerica Fit Villa Lobos"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7419098,
+          -23.5355051
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-06-11T22:40:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=17714374814595751573",
+        "location": {
+          "address": "Av. Dr. Gastão Vidigal, 1946 - PORTÃO 03 - Vila Leopoldina, São Paulo - SP, 05316-900, Brasil",
+          "country_code": "BR",
+          "name": "CEAGESP"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-06-02T12:53:27Z",
+        "google_maps_url": "http://maps.google.com/?q=Pra%C3%A7a+das+Guianas,+56+-+Jardim+Paulista,+S%C3%A3o+Paulo+-+SP,+01428-030&ftid=0x94ce59dbc2b9c807:0xb0cf7d84bf0cc032",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6795617,
+          -23.5873511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-05-16T18:58:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=9129599151632936761",
+        "location": {
+          "address": "R. Leopoldo Couto Magalhães Júnior, 700 - Itaim Bibi, São Paulo - SP, 04537-001, Brasil",
+          "name": "Bloomberg"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-05-14T22:08:40Z",
+        "google_maps_url": "http://maps.google.com/?q=Pra%C3%A7a+Haroldo+Daltro+-+Vila+Nova+Manchester,+S%C3%A3o+Paulo+-+SP,+03444-090,+Brazil&ftid=0x94ce5e0ba23fbb53:0xcea950a79f1b012",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-05-14T22:04:55Z",
+        "google_maps_url": "http://maps.google.com/?q=R.+Maj.+Dantas+Cortez,+1221+-+Vila+Gustavo,+S%C3%A3o+Paulo+-+SP,+02206-002,+Brazil&ftid=0x94cef5fcddd5e753:0x1dd9ef6d8a0cd11b",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-05-14T22:04:23Z",
+        "google_maps_url": "http://maps.google.com/?q=R.+Jorge+Newbery,+108+-+Parque+Edu+Chaves,+S%C3%A3o+Paulo+-+SP,+02231-020,+Brazil&ftid=0x94cef58f9c2e0b17:0x4ec1e2ceed27fdd5",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -47.0615332,
+          -22.8971511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-05-05T22:49:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=9625801727518801905",
+        "location": {
+          "address": "Av. Orosimbo Maia, 430 - 5 andar, sala 517 - Vila Itapura, Campinas - SP, 13024-045, Brasil",
+          "name": "Digitale - Marketing Digital e Agência de Publicidade"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6101759,
+          -23.5961923
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-05-05T19:35:30Z",
+        "google_maps_url": "http://maps.google.com/?cid=15763442090905613333",
+        "location": {
+          "address": "Av. Nazaré, 1384 - Ipiranga, São Paulo - SP, 04262-200, Brasil",
+          "country_code": "BR",
+          "name": "Masaki Sushi"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7318561,
+          -23.5589616
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-03-07T22:10:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=3931976452270882336",
+        "location": {
+          "address": "R. do Matão, 1010 - Bloco C - Butantã, São Paulo - SP, 05508-010, Brasil",
+          "country_code": "BR",
+          "name": "Departamento de Ciência da Computação / IME-USP"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -122.4316667,
+          37.7650314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-01-30T00:59:03Z",
+        "google_maps_url": "http://maps.google.com/?cid=8247015579092852139",
+        "location": {
+          "address": "2239 Market St, San Francisco, CA 94114, Estados Unidos",
+          "country_code": "US",
+          "name": "Sweet Inspiration ft. Mike's Sandwiches"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -118.3312413,
+          34.1018203
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-01-23T19:03:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=11034286282973118775",
+        "location": {
+          "address": "6501 Hollywood Blvd, Los Angeles, CA 90028, Estados Unidos",
+          "country_code": "US",
+          "name": "Rise N Grind"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-01-23T06:54:08Z",
+        "google_maps_url": "http://maps.google.com/?q=110+E+9th+St,+Los+Angeles,+CA+90079&ftid=0x80c2c7cb74e3b761:0xb70526b2f52aaa1d",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.1789147,
+          32.7018055
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-01-18T18:06:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=6184866572144959792",
+        "location": {
+          "address": "413 1st St, Coronado, CA 92118, Estados Unidos",
+          "country_code": "US",
+          "name": "Bayview Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -117.1718963,
+          32.6994754
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-01-18T18:06:18Z",
+        "google_maps_url": "http://maps.google.com/?cid=14906006410289974767",
+        "location": {
+          "address": "1101 1st St, Coronado, CA 92118, Estados Unidos",
+          "country_code": "US",
+          "name": "Centennial Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9569444,
+          40.9627778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-01-12T13:01:11Z",
+        "google_maps_url": "http://maps.google.com/?cid=7169263952960130304",
+        "location": {
+          "address": "4 Pine Terrace, Demarest, NJ 07627, Estados Unidos",
+          "name": "Dr Rivero Rita DVM - Demarest Veterinarian"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9840235,
+          40.8783887
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2016-01-09T02:58:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=1567223838222577245",
+        "location": {
+          "address": "491 S Dean St, Englewood, NJ 07631, Estados Unidos",
+          "country_code": "US",
+          "name": "SPACE"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9984800,
+          40.9038764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-12-27T15:33:08Z",
+        "google_maps_url": "http://maps.google.com/?cid=5977578167364250304",
+        "location": {
+          "address": "1555 Teaneck Rd, Teaneck, NJ 07666, Estados Unidos",
+          "country_code": "US",
+          "name": "Better Meat & Produce"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0750687,
+          41.0418810
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-12-18T14:08:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=15815804919564953318",
+        "location": {
+          "address": "441 Chestnut Ridge Rd, Woodcliff Lake, NJ 07677, Estados Unidos",
+          "country_code": "US",
+          "name": "Apple Tice's Corner"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.1021388,
+          40.9254277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-12-14T15:51:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=16350697967990416589",
+        "location": {
+          "address": "34-07 Broadway, Fair Lawn, NJ 07410, Estados Unidos",
+          "country_code": "US",
+          "name": "Screamin Ink Tattoo Studio"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9786736,
+          40.7587402
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-11-13T21:52:43Z",
+        "google_maps_url": "http://maps.google.com/?cid=3734087314244816034",
+        "location": {
+          "address": "45 Rockefeller Plaza, New York, NY 10111, Estados Unidos",
+          "country_code": "US",
+          "name": "Rockefeller Center"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9855426,
+          40.7579747
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-11-13T21:52:40Z",
+        "google_maps_url": "http://maps.google.com/?cid=6132018978369701678",
+        "location": {
+          "address": "Manhattan, NY 10036, Estados Unidos",
+          "name": "Times Square"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0030900,
+          40.7216690
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-11-13T21:52:21Z",
+        "google_maps_url": "http://maps.google.com/?cid=6948599787961707368",
+        "location": {
+          "address": "26 Wooster St, New York, NY 10013, Estados Unidos",
+          "country_code": "US",
+          "name": "Leslie-Lohman Museum of Art"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9973320,
+          40.7308838
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-11-13T21:52:00Z",
+        "google_maps_url": "http://maps.google.com/?cid=18041805897612033560",
+        "location": {
+          "address": "Washington Square, New York, NY 10012, Estados Unidos",
+          "country_code": "US",
+          "name": "Washington Square Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0134499,
+          40.7055746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-11-13T21:51:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=14401167158508778785",
+        "location": {
+          "address": "Bowling Green, New York, NY 10004, Estados Unidos",
+          "name": "Touro de Wall Street"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9525832,
+          40.7236258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-11-13T21:50:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=5348187043948040144",
+        "location": {
+          "address": "74 Guernsey St, Brooklyn, NY 11222, Estados Unidos",
+          "country_code": "US",
+          "name": "Beacon's Closet"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9508056,
+          40.9949684
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-11-13T21:46:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=3341676585519802025",
+        "location": {
+          "address": "453 Broadway, Norwood, NJ 07648, Estados Unidos",
+          "country_code": "US",
+          "name": "Kennedy Field"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0399322,
+          40.8884201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-11-01T15:11:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=15184113488914761367",
+        "location": {
+          "address": "324 Main St, Hackensack, NJ 07601, Estados Unidos",
+          "country_code": "US",
+          "name": "Giant Farmer's Market"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0404110,
+          40.8895314
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-21T12:21:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=17705663206439385642",
+        "location": {
+          "address": "355 Main St, Hackensack, NJ 07601, Estados Unidos",
+          "country_code": "US",
+          "name": "Philip Ciarco Jr. Learning Center at Bergen Community College"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-20T10:41:12Z",
+        "google_maps_url": "http://maps.google.com/?q=72+N+Washington+Ave,+Bergenfield,+NJ+07621&ftid=0x89c2f0460cccd6a1:0xbc8986a9b6790c26",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-20T10:40:33Z",
+        "google_maps_url": "http://maps.google.com/?q=35+Green+St,+Hackensack,+NJ+07601&ftid=0x89c2f9f364815579:0xaeeb39b81a7a6efc",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-05T21:10:31Z",
+        "google_maps_url": "http://maps.google.com/?q=158+Old+Chestnut+Ridge+Rd,+Montvale,+NJ+07645&ftid=0x89c2e65c6a15a9a1:0xc255e4ad480f90e7",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9499556,
+          40.7225583
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-03T15:12:06Z",
+        "google_maps_url": "http://maps.google.com/?cid=7859558105358756360",
+        "location": {
+          "address": "572 Manhattan Ave, Brooklyn, NY 11222, Estados Unidos",
+          "country_code": "US",
+          "name": "Three Kings Tattoo Brooklyn"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9977463,
+          40.6964173
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-01T01:12:17Z",
+        "google_maps_url": "http://maps.google.com/?cid=13697143868944734919",
+        "location": {
+          "address": "Montague St &, Pierrepont Pl, Brooklyn, NY 11201, Estados Unidos",
+          "country_code": "US",
+          "name": "Brooklyn Heights Promenade"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9923677,
+          40.7394215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-01T01:10:31Z",
+        "google_maps_url": "http://maps.google.com/?cid=11169020861191177631",
+        "location": {
+          "address": "14 West 19th Street at, 5th Ave, New York, NY 10011, Estados Unidos",
+          "country_code": "US",
+          "name": "Dough Doughnuts"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9282250,
+          40.7560673
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-10-01T01:07:52Z",
+        "google_maps_url": "http://maps.google.com/?cid=3679710156663915123",
+        "location": {
+          "address": "32-15 36th Ave, Astoria, NY 11106, Estados Unidos",
+          "country_code": "US",
+          "name": "Rio Market Inc"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0881824,
+          40.9508752
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-09-17T12:52:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=12322596680016503065",
+        "location": {
+          "address": "400 Paramus Rd, Paramus, NJ 07652, Estados Unidos",
+          "country_code": "US",
+          "name": "Bergen Community College"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-09-03T11:13:06Z",
+        "google_maps_url": "http://maps.google.com/?q=8+Mill+St,+Lodi,+NJ+07644&ftid=0x89c2f9821c7d3f13:0xe174e7d000f5a34b",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9577086,
+          40.7217625
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-08-16T16:11:45Z",
+        "google_maps_url": "http://maps.google.com/?cid=15512340134091706295",
+        "location": {
+          "address": "79 N 11th St, Brooklyn, NY 11249, Estados Unidos",
+          "country_code": "US",
+          "name": "Brooklyn Brewery"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-08-15T23:09:43Z",
+        "google_maps_url": "http://maps.google.com/?q=14+Harrison+Ave,+Montclair,+NJ+07042&ftid=0x89c3aab5de16754f:0xdb907bb03245d6b1",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9689558,
+          40.6602037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-08-15T16:35:34Z",
+        "google_maps_url": "http://maps.google.com/?cid=1696722114425354904",
+        "location": {
+          "address": "Brooklyn, NY, Estados Unidos",
+          "country_code": "US",
+          "name": "Prospect Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-07-31T07:06:55Z",
+        "google_maps_url": "http://maps.google.com/?q=40.962931,-74.600879",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-07-23T13:26:25Z",
+        "google_maps_url": "http://maps.google.com/?q=400+Lantana+Ave,+Englewood,+NJ+07631&ftid=0x89c2f0fc2ce20a65:0xfb8f0a74949f341a",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.1409042,
+          40.9500140
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-07-22T01:14:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=11419935824602958103",
+        "location": {
+          "address": "Harristown Rd, Fair Lawn, NJ 07410, Estados Unidos",
+          "country_code": "US",
+          "name": "Dobrow Sports Complex"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-07-20T19:48:35Z",
+        "google_maps_url": "http://maps.google.com/?q=17+Jefferson+Ave,+Cresskill,+NJ+07626&ftid=0x89c2f1c604c78545:0x80e076a2a98df4f2",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0603664,
+          40.9278765
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-07-20T19:17:28Z",
+        "google_maps_url": "http://maps.google.com/?cid=5489241829282460317",
+        "location": {
+          "address": "99 E Century Rd, Paramus, NJ 07652, Estados Unidos",
+          "country_code": "US",
+          "name": "Paramus High School"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9944022,
+          40.9390305
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-07-19T00:46:32Z",
+        "google_maps_url": "http://maps.google.com/?cid=952979390385561524",
+        "location": {
+          "address": "84 Washington Ave, Dumont, NJ 07628, Estados Unidos",
+          "country_code": "US",
+          "name": "New Ho Won"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9513212,
+          40.9698407
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-06-29T10:47:57Z",
+        "google_maps_url": "http://maps.google.com/?cid=376622704540994086",
+        "location": {
+          "address": "500 Piermont Rd # 102, Closter, NJ 07624, Estados Unidos",
+          "country_code": "US",
+          "name": "Optum Pediatrics - Closter"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0553570,
+          40.9140370
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-06-10T00:46:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=9992946482441522672",
+        "location": {
+          "address": "2200 Bergen Town Center Dr, Paramus, NJ 07652, Estados Unidos",
+          "country_code": "US",
+          "name": "REI"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.3821990,
+          40.8086550
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-05-31T12:44:16Z",
+        "google_maps_url": "http://maps.google.com/?cid=7696841641455157190",
+        "location": {
+          "address": "145 NJ-10, East Hanover, NJ 07936, Estados Unidos",
+          "country_code": "US",
+          "name": "AMC East Hanover 12"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9923885,
+          40.7044500
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-05-29T13:04:12Z",
+        "google_maps_url": "http://maps.google.com/?cid=7191329602123256688",
+        "location": {
+          "address": "1 Old, Dock St, Brooklyn, NY 11201, Estados Unidos",
+          "name": "Jane's Carousel"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9644696,
+          40.6685798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-05-29T13:04:02Z",
+        "google_maps_url": "http://maps.google.com/?cid=6287640687594921178",
+        "location": {
+          "address": "Brooklyn, NY 11238, Estados Unidos",
+          "country_code": "US",
+          "name": "Jardim Botânico do Brooklyn"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9953937,
+          40.9435169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-05-28T21:45:25Z",
+        "google_maps_url": "http://maps.google.com/?cid=3919161215876274278",
+        "location": {
+          "address": "110 W Shore Ave, Dumont, NJ 07628, Estados Unidos",
+          "country_code": "US",
+          "name": "Cuban Eddie's Dumont"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9317274,
+          40.8648628
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-05-17T19:03:15Z",
+        "google_maps_url": "http://maps.google.com/?cid=10489420070564866477",
+        "location": {
+          "address": "99 Margaret Corbin Dr, New York, NY 10040, Estados Unidos",
+          "country_code": "US",
+          "name": "Cloisters"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9954470,
+          40.6827080
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-05-14T13:41:46Z",
+        "google_maps_url": "http://maps.google.com/?cid=5712669866871478875",
+        "location": {
+          "address": "333 Court St, Brooklyn, NY 11231, Estados Unidos",
+          "country_code": "US",
+          "name": "The Brooklyn Strategist"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9579098,
+          40.7130234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-05-14T13:40:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=16461013373672671025",
+        "location": {
+          "address": "280 Grand St, Brooklyn, NY 11211, Estados Unidos",
+          "country_code": "US",
+          "name": "Twenty Sided"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-05-14T13:40:16Z",
+        "google_maps_url": "http://maps.google.com/?q=362+Grand+St,+Brooklyn,+NY+11211,+USA&ftid=0x89c2595f652f62f1:0x79085a6da71537c5",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0061439,
+          40.7424396
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-04-23T17:43:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=9106689863996784802",
+        "location": {
+          "address": "75 9th Ave, New York, NY 10011, Estados Unidos",
+          "country_code": "US",
+          "name": "Chelsea Market"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9878621,
+          40.7436338
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-04-23T17:43:01Z",
+        "google_maps_url": "http://maps.google.com/?cid=9770764137049275432",
+        "location": {
+          "address": "225 5th Ave, New York, NY 10010, Estados Unidos",
+          "country_code": "US",
+          "name": "National Museum of Mathematics"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9879992,
+          40.7421951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-04-23T17:42:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=8362350006986278047",
+        "location": {
+          "address": "11 Madison Ave, New York, NY 10010, Estados Unidos",
+          "country_code": "US",
+          "name": "Madison Square Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.9879992,
+          40.7421951
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-04-23T17:42:10Z",
+        "google_maps_url": "http://maps.google.com/?cid=8762172235992104316",
+        "location": {
+          "address": "11 Madison Ave, New York, NY 10010, Estados Unidos",
+          "country_code": "US",
+          "name": "Madison Square Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0047649,
+          40.7479925
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-04-23T17:41:47Z",
+        "google_maps_url": "http://maps.google.com/?cid=6358908248867355793",
+        "location": {
+          "address": "New York, NY 10011, Estados Unidos",
+          "country_code": "US",
+          "name": "High Line"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -74.0763310,
+          40.9181729
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-04-17T15:28:26Z",
+        "google_maps_url": "http://maps.google.com/?cid=13966937098239804530",
+        "location": {
+          "address": "One Garden State Plaza Pkwy, Paramus, NJ 07652, Estados Unidos",
+          "country_code": "US",
+          "name": "Westfield Garden State Plaza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.6278601,
+          41.8920631
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-03-27T00:58:37Z",
+        "google_maps_url": "http://maps.google.com/?cid=7789655464161630031",
+        "location": {
+          "address": "539 N State St, Chicago, IL 60654, Estados Unidos",
+          "country_code": "US",
+          "name": "Weber Grill Restaurant"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -87.7276670,
+          41.9501327
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2015-03-27T00:58:09Z",
+        "google_maps_url": "http://maps.google.com/?cid=1380084524031374543",
+        "location": {
+          "address": "3800 N Pulaski Rd, Chicago, IL 60641, Estados Unidos",
+          "country_code": "US",
+          "name": "Smoque BBQ"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2014-05-17T12:04:28Z",
+        "google_maps_url": "http://maps.google.com/?q=Rua Joaquim Forzano, 50 - Eldorado, São Paulo - SP, 04475-610&ftid=0x94ce45ab7cb4d053:0x5e9397b946ce5be0",
+        "Comment": "Não há nenhuma informação de localização disponível para esse lugar salvo"
+      },
+      "type": "Feature"
+    }
+  ]
+}

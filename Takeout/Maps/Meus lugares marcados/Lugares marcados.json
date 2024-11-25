@@ -1,0 +1,129 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          -46.642122099999995,
+          -23.620400999999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Rua Manoel Correia Júnior, 63 - Vila da Saúde, São Paulo - SP, 04055-100, Brasil",
+        "name": "Casa"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.8648789,
+          -23.4850189
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Av. Andrômeda, 885 - Alphaville Empresarial, Barueri - SP, 06473-000, Brasil",
+        "name": "Trabalho"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.607089699999996,
+          -23.5847607
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Mr. Navarro Barbearia - R. Xavier Curado, 162 - Ipiranga, São Paulo - SP, 04210-100, Brasil",
+        "name": "Mobi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6883279,
+          -23.563959699999998
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "R. Teodoro Sampaio, 2056 - Pinheiros, São Paulo - SP, 05406-150, Brasil",
+        "name": "Van's Outlet"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6939545,
+          -23.6223867
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Anhembi Morumbi - R. Jaceru, 247 - Morumbi, São Paulo - SP, Brasil",
+        "name": "School"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.7350845,
+          -23.5605087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Física Nuclear - FNC, São Paulo - SP, República Federativa do Brasil"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.572711999999996,
+          -23.587605999999997
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Barbearia M.r Navarro Jd. Avelino - R. Pinheiro Guimarães, 486B - Jardim Avelino, São Paulo - SP, 03141-030, Brasil",
+        "name": "Mobi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -73.90924079999999,
+          40.6769015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "16 Monaco Pl, Brooklyn, NY 11233, EUA",
+        "name": "AirBnB"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -46.6339111,
+          -23.7050266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "name": "Cursinho Mafalda"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
