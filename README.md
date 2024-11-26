@@ -20,6 +20,28 @@ Desenvolver um sistema que categorize restaurantes de acordo com o tipo de culin
 - **Pandas**: Biblioteca para manipulação e análise de dados.
 - **Requests**: Biblioteca para requisições HTTP, utilizada na consulta a fontes externas.
 
+## Critérios de Classificação
+
+Os critérios de classificação foram definidos com base nos seguintes aspectos:
+
+1. **Palavras-Chave no Nome**:
+   - Identificação de termos que indicam diretamente o tipo de culinária. Exemplos:
+     - "Sushi", "Japão" -> Classificação: "Sushi, Japonês, Contemporâneo".
+     - "Hamburguer", "Burger" -> Classificação: "Hambúrguer, Lanchonete, Tradicional".
+     - "Tartufo" (trufa em italiano) -> Classificação: "Gourmet, Contemporâneo".
+
+2. **Tipos de Estabelecimento**:
+   - Utilização da coluna `types` do conjunto de dados para identificar categorias adicionais. Exemplos:
+     - Contendo "bar" -> Classificação: "Bar, Drinks, Casual".
+     - Contendo "store" -> Classificação: "Loja, Especializada".
+
+3. **Combinação de Informações**:
+   - Em casos onde tanto o nome quanto os tipos forneciam pistas, combinamos essas informações para uma classificação mais precisa. Exemplo:
+     - Nome: "Plou Vinhos", Tipo: "bar" -> Classificação: "Bar de Vinhos, Enoteca, Contemporâneo".
+
+4. **Classificação Padrão**:
+   - Restaurantes que não apresentaram palavras-chave ou tipos específicos foram classificados como "Outros".
+
 ## Como Executar o Projeto
 
 1. **Clone o repositório**:
