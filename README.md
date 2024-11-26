@@ -55,7 +55,7 @@ Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` p
 
 ## Contato
 
-Para mais informações, entre em contato pelo e-mail: seu-email@exemplo.com
+Para mais informações, entre em contato pelo e-mail: guilherme.sori@gmail.com
 
 ---
 
